@@ -16,23 +16,8 @@
   https://www.linkedin.com/in/sakibhasan- | sakib.sosbangladesh@gmail.com
 </p>
 
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```yaml
-name: Sakib Hasan
-role: Machine Learning & MLOps Engineer
-focus: Production-Ready AI Systems
-location: Bangladesh
-experience: Building scalable ML pipelines
-```
-
-### 💡 What I Do
-
-I'm a **Machine Learning & MLOps Engineer** specializing in **end-to-end production ML systems** on cloud infrastructure. My expertise lies in transforming experimental models into robust, scalable production systems.
+<br>
+<br>
 
 <div align="center">
   <h2>Production ML Pipeline Flow</h2>
@@ -133,6 +118,24 @@ I'm a **Machine Learning & MLOps Engineer** specializing in **end-to-end product
 </div>
 
 <br>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```yaml
+name: Sakib Hasan
+role: Machine Learning & MLOps Engineer
+focus: Production-Ready AI Systems
+location: Bangladesh
+experience: Building scalable ML pipelines
+```
+
+### 💡 What I Do
+
+I'm a **Machine Learning & MLOps Engineer** specializing in **end-to-end production ML systems** on cloud infrastructure. My expertise lies in transforming experimental models into robust, scalable production systems.
 
 ### 🔭 Current Focus
 
