@@ -1,21 +1,20 @@
 <!-- ================= HEADER ================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakib;ML+%26+MLOps+Engineer;Building+Production+AI+Systems;Cloud+%7C+Docker+%7C+CI%2FCD" alt="Typing SVG" />
+  <h1 style="font-size: 48px; font-weight: 700; margin: 0; padding: 20px 0;">Sakib Hasan</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;MLOps+Engineer;Production+AI+Systems;AWS+Cloud+Deployment;CI/CD+Automation;Docker+%7C+Kubernetes;FastAPI+Development" alt="Typing SVG" />
 </div>
+
+<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
-</p>
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sakibhasan-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sakib.sosbangladesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
@@ -26,7 +25,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```yaml
-name: Sakib
+name: Sakib Hasan
 role: Machine Learning & MLOps Engineer
 focus: Production-Ready AI Systems
 location: [Your Location]
@@ -37,10 +36,84 @@ experience: Building scalable ML pipelines
 
 I'm a **Machine Learning & MLOps Engineer** specializing in **end-to-end production ML systems** on cloud infrastructure. My expertise lies in transforming experimental models into robust, scalable production systems.
 
-**My ML Journey:**
+### 📊 Production ML Pipeline
+
+<div align="center">
+  
+```mermaid
+graph LR
+    A[Data Collection] --> B[Data Processing]
+    B --> C[Feature Engineering]
+    C --> D[Model Training]
+    D --> E[Experiment Tracking]
+    E --> F[Model Evaluation]
+    F --> G[Model Registry]
+    G --> H[FastAPI Service]
+    H --> I[Docker Container]
+    I --> J[CI/CD Pipeline]
+    J --> K[AWS Deployment]
+    K --> L[Monitoring & Logging]
+    L --> M[Model Retraining]
+    M --> D
+    
+    style A fill:#4CAF50
+    style D fill:#2196F3
+    style H fill:#FF9800
+    style K fill:#F44336
+    style L fill:#9C27B0
 ```
-📊 Data → 🧪 Experimentation → 🏗️ Pipeline → 🚀 API → 🐳 Docker → 🔄 CI/CD → ☁️ AWS Deployment
-```
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/color/96/000000/data.png" width="48" height="48" alt="Data"/>
+      <br><b>Data Pipeline</b>
+      <br><sub>Collection & Processing</sub>
+    </td>
+    <td align="center" width="30">
+      <b>→</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="48" height="48" alt="ML"/>
+      <br><b>ML Training</b>
+      <br><sub>Experiments & Tuning</sub>
+    </td>
+    <td align="center" width="30">
+      <b>→</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/color/96/000000/api-settings.png" width="48" height="48" alt="API"/>
+      <br><b>API Service</b>
+      <br><sub>FastAPI Development</sub>
+    </td>
+    <td align="center" width="30">
+      <b>→</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/color/96/000000/docker.png" width="48" height="48" alt="Docker"/>
+      <br><b>Containerization</b>
+      <br><sub>Docker Images</sub>
+    </td>
+    <td align="center" width="30">
+      <b>→</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="48" height="48" alt="AWS"/>
+      <br><b>AWS Deployment</b>
+      <br><sub>ECS & S3</sub>
+    </td>
+    <td align="center" width="30">
+      <b>→</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://img.icons8.com/color/96/000000/graph.png" width="48" height="48" alt="Monitor"/>
+      <br><b>Monitoring</b>
+      <br><sub>Logs & Metrics</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🔭 Current Focus
 
@@ -187,36 +260,6 @@ I focus on:
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-  
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="49%" alt="Contribution Stats" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
-
-⚠️ **Remember:** Replace **YOUR_USERNAME** with your actual GitHub username in all URLs above
-
----
-
 ## 🌍 2026 Learning Roadmap
 
 <img align="right" alt="Learning" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
@@ -242,10 +285,10 @@ I focus on:
 ### 💬 Let's Collaborate!
 
 <p>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/sakibhasan-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:sakib.sosbangladesh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="YOUR_PORTFOLIO_URL" target="_blank">
