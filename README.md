@@ -3,7 +3,7 @@
 <div align="center">
   <h1 style="font-size: 48px; font-weight: 700; margin: 0; padding: 20px 0;">Sakib Hasan</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;MLOps+Engineer;Production+AI+Systems;AWS+Cloud+Deployment;CI/CD+Automation;Docker+%7C+Kubernetes;FastAPI+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;MLOps+Engineer;Production+AI+Systems;AWS+Cloud+Deployment;CI/CD+Automation;Docker+%7C+Kubernetes;FastAPI+Development" alt="Typing SVG" />
 </div>
 
 <br>
@@ -36,95 +36,105 @@ experience: Building scalable ML pipelines
 
 I'm a **Machine Learning & MLOps Engineer** specializing in **end-to-end production ML systems** on cloud infrastructure. My expertise lies in transforming experimental models into robust, scalable production systems.
 
-<h2 align="center">Production ML Pipeline Flow</h2>
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 160px;">
-          <strong style="font-size: 14px;">Data Collection</strong>
-        </div>
-      </td>
-      <td align="center" style="font-size: 28px; color: #667eea; padding: 0 10px;">
-        →
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 20px 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 160px;">
-          <strong style="font-size: 14px;">Data Analysis (EDA)</strong>
-        </div>
-      </td>
-      <td align="center" style="font-size: 28px; color: #f093fb; padding: 0 10px;">
-        →
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 20px 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 160px;">
-          <strong style="font-size: 14px;">Feature Engineering</strong>
-        </div>
-      </td>
-    </tr>
-  </table>
-  
-  <div style="font-size: 28px; color: #4facfe; margin: 15px 0;">
-    ↓
-  </div>
-  
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); color: white; padding: 20px 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 160px;">
-          <strong style="font-size: 14px;">Model Training</strong>
-        </div>
-      </td>
-      <td align="center" style="font-size: 28px; color: #43e97b; padding: 0 10px;">
-        →
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; padding: 20px 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 160px;">
-          <strong style="font-size: 14px;">Model Evaluation</strong>
-        </div>
-      </td>
-      <td align="center" style="font-size: 28px; color: #fa709a; padding: 0 10px;">
-        →
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); color: white; padding: 20px 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 160px;">
-          <strong style="font-size: 14px;">MLflow Tracking</strong>
-        </div>
-      </td>
-    </tr>
-  </table>
-  
-  <div style="font-size: 28px; color: #30cfd0; margin: 15px 0;">
-    ↓
-  </div>
-  
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); color: #333; padding: 20px 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 160px;">
-          <strong style="font-size: 14px;">Docker Build</strong>
-        </div>
-      </td>
-      <td align="center" style="font-size: 28px; color: #a8edea; padding: 0 10px;">
-        →
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); color: #333; padding: 20px 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 160px;">
-          <strong style="font-size: 14px;">FastAPI Serving</strong>
-        </div>
-      </td>
-      <td align="center" style="font-size: 28px; color: #ff9a9e; padding: 0 10px;">
-        →
-      </td>
-      <td align="center" style="padding: 10px;">
-        <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); color: #333; padding: 20px 30px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 160px;">
-          <strong style="font-size: 14px;">AWS Deployment (ECS + S3)</strong>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <h2>Production ML Pipeline Flow</h2>
+  <p style="color: #6b7280; margin-bottom: 30px;">The ML pipeline involves several stages. Here's a general overview of the process.</p>
 </div>
+
+<div align="center" style="background-color: #1a1a1a; padding: 40px 20px; border-radius: 20px; margin: 20px 0;">
+  
+  <!-- Row 1 -->
+  <table align="center" style="margin-bottom: 25px;">
+    <tr>
+      <td>
+        <div style="background-color: #9fef00; color: #1a1a1a; padding: 15px 35px; border-radius: 50px; font-weight: 600; text-align: center; min-width: 140px; box-shadow: 0 4px 12px rgba(159, 239, 0, 0.3);">
+          Data Collection
+        </div>
+      </td>
+      <td style="padding: 0 15px; color: #4a5568; font-size: 24px;">→</td>
+      <td>
+        <div style="background-color: #4a5568; color: white; padding: 15px 35px; border-radius: 50px; font-weight: 600; text-align: center; min-width: 140px;">
+          Data Analysis
+        </div>
+      </td>
+      <td style="padding: 0 15px; color: #4a5568; font-size: 24px;">→</td>
+      <td>
+        <div style="background-color: #4a5568; color: white; padding: 15px 35px; border-radius: 50px; font-weight: 600; text-align: center; min-width: 140px;">
+          Feature Engineering
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Curved Arrow Down -->
+  <div style="font-size: 28px; color: #4a5568; margin: 10px 0; transform: translateX(200px);">
+    ↓
+  </div>
+
+  <!-- Row 2 -->
+  <table align="center" style="margin-bottom: 25px;">
+    <tr>
+      <td>
+        <div style="background-color: #4a5568; color: white; padding: 15px 35px; border-radius: 50px; font-weight: 600; text-align: center; min-width: 140px;">
+          Model Training
+        </div>
+      </td>
+      <td style="padding: 0 60px;"></td>
+      <td>
+        <div style="background-color: #4a5568; color: white; padding: 15px 35px; border-radius: 50px; font-weight: 600; text-align: center; min-width: 140px;">
+          Model Evaluation
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Curved Arrow Down -->
+  <div style="font-size: 28px; color: #4a5568; margin: 10px 0; transform: translateX(-200px);">
+    ↓
+  </div>
+
+  <!-- Row 3 -->
+  <table align="center" style="margin-bottom: 25px;">
+    <tr>
+      <td>
+        <div style="background-color: #4a5568; color: white; padding: 15px 35px; border-radius: 50px; font-weight: 600; text-align: center; min-width: 140px;">
+          MLflow Tracking
+        </div>
+      </td>
+      <td style="padding: 0 15px; color: #4a5568; font-size: 24px;">→</td>
+      <td>
+        <div style="background-color: #4a5568; color: white; padding: 15px 35px; border-radius: 50px; font-weight: 600; text-align: center; min-width: 140px;">
+          Docker Build
+        </div>
+      </td>
+      <td style="padding: 0 15px; color: #4a5568; font-size: 24px;">→</td>
+      <td>
+        <div style="background-color: #4a5568; color: white; padding: 15px 35px; border-radius: 50px; font-weight: 600; text-align: center; min-width: 140px;">
+          FastAPI Serving
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Curved Arrow Down -->
+  <div style="font-size: 28px; color: #4a5568; margin: 10px 0;">
+    ↓
+  </div>
+
+  <!-- Row 4 - Final Stage -->
+  <table align="center">
+    <tr>
+      <td>
+        <div style="background-color: #4a5568; color: white; padding: 15px 45px; border-radius: 50px; font-weight: 600; text-align: center; min-width: 180px;">
+          AWS Deployment (ECS + S3)
+        </div>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br>
 
 ### 🔭 Current Focus
 
