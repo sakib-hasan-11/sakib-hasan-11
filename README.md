@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakibhasan-">LinkedIn</a> | <a href="mailto:sakib.sosbangladesh@gmail.com">Email</a>
+  https://www.linkedin.com/in/sakibhasan- | sakib.sosbangladesh@gmail.com
 </p>
 
 ---
