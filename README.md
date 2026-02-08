@@ -16,8 +16,40 @@
   https://www.linkedin.com/in/sakibhasan- | sakib.sosbangladesh@gmail.com
 </p>
 
-<br>
-<br>
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```yaml
+name: Sakib Hasan
+role: Machine Learning & MLOps Engineer
+focus: Production-Ready AI Systems
+location: Bangladesh
+experience: Building scalable ML pipelines
+```
+
+### 💡 What I Do
+
+I'm a **Machine Learning & MLOps Engineer** specializing in **end-to-end production ML systems** on cloud infrastructure. My expertise lies in transforming experimental models into robust, scalable production systems.
+
+### 🔭 Current Focus
+
+- 🏢 Building **production-grade ML systems** with MLOps best practices
+- ☁️ **Cloud-native deployment** on AWS (S3, ECR, ECS, Lambda)
+- 🔄 **CI/CD automation** for ML workflows
+- ⚡ **FastAPI** microservices for model serving
+- 🤖 **LLM & RAG systems** for intelligent applications
+- 📊 **Real-time model monitoring** and A/B testing
+
+### 🎯 Career Vision
+
+Building **scalable AI systems** that serve millions of users worldwide. Passionate about bridging the gap between ML research and production deployment.
+
+> *"A model in a notebook is a prototype. A deployed model is real engineering."*
+
+---
 
 <div align="center">
   <h2>Production ML Pipeline Flow</h2>
@@ -116,41 +148,6 @@
   </table>
 
 </div>
-
-<br>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```yaml
-name: Sakib Hasan
-role: Machine Learning & MLOps Engineer
-focus: Production-Ready AI Systems
-location: Bangladesh
-experience: Building scalable ML pipelines
-```
-
-### 💡 What I Do
-
-I'm a **Machine Learning & MLOps Engineer** specializing in **end-to-end production ML systems** on cloud infrastructure. My expertise lies in transforming experimental models into robust, scalable production systems.
-
-### 🔭 Current Focus
-
-- 🏢 Building **production-grade ML systems** with MLOps best practices
-- ☁️ **Cloud-native deployment** on AWS (S3, ECR, ECS, Lambda)
-- 🔄 **CI/CD automation** for ML workflows
-- ⚡ **FastAPI** microservices for model serving
-- 🤖 **LLM & RAG systems** for intelligent applications
-- 📊 **Real-time model monitoring** and A/B testing
-
-### 🎯 Career Vision
-
-Building **scalable AI systems** that serve millions of users worldwide. Passionate about bridging the gap between ML research and production deployment.
-
-> *"A model in a notebook is a prototype. A deployed model is real engineering."*
 
 ---
 
