@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakibhasan-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sakib.sosbangladesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sakibhasan-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sakib.sosbangladesh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
@@ -39,78 +39,115 @@ I'm a **Machine Learning & MLOps Engineer** specializing in **end-to-end product
 ### 📊 Production ML Pipeline
 
 <div align="center">
-  
-```mermaid
-graph LR
-    A[Data Collection] --> B[Data Processing]
-    B --> C[Feature Engineering]
-    C --> D[Model Training]
-    D --> E[Experiment Tracking]
-    E --> F[Model Evaluation]
-    F --> G[Model Registry]
-    G --> H[FastAPI Service]
-    H --> I[Docker Container]
-    I --> J[CI/CD Pipeline]
-    J --> K[AWS Deployment]
-    K --> L[Monitoring & Logging]
-    L --> M[Model Retraining]
-    M --> D
-    
-    style A fill:#4CAF50
-    style D fill:#2196F3
-    style H fill:#FF9800
-    style K fill:#F44336
-    style L fill:#9C27B0
-```
-
+  <h3>End-to-End ML Workflow</h3>
 </div>
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/color/96/000000/data.png" width="48" height="48" alt="Data"/>
-      <br><b>Data Pipeline</b>
-      <br><sub>Collection & Processing</sub>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" width="50" height="50" alt="Data"/>
+      <br><strong>Data Collection</strong>
+      <br><small>ETL & Storage</small>
     </td>
-    <td align="center" width="30">
-      <b>→</b>
+    <td align="center" width="40">
+      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="48" height="48" alt="ML"/>
-      <br><b>ML Training</b>
-      <br><sub>Experiments & Tuning</sub>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/3004/3004458.png" width="50" height="50" alt="Processing"/>
+      <br><strong>Data Processing</strong>
+      <br><small>Cleaning & EDA</small>
     </td>
-    <td align="center" width="30">
-      <b>→</b>
+    <td align="center" width="40">
+      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/color/96/000000/api-settings.png" width="48" height="48" alt="API"/>
-      <br><b>API Service</b>
-      <br><sub>FastAPI Development</sub>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/9374/9374388.png" width="50" height="50" alt="Feature"/>
+      <br><strong>Feature Engineering</strong>
+      <br><small>Transformation</small>
     </td>
-    <td align="center" width="30">
-      <b>→</b>
+    <td align="center" width="40">
+      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
     </td>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/color/96/000000/docker.png" width="48" height="48" alt="Docker"/>
-      <br><b>Containerization</b>
-      <br><sub>Docker Images</sub>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/8618/8618712.png" width="50" height="50" alt="Training"/>
+      <br><strong>Model Training</strong>
+      <br><small>ML Algorithms</small>
     </td>
-    <td align="center" width="30">
-      <b>→</b>
+  </tr>
+</table>
+
+<div align="center" style="margin: 10px 0;">
+  <strong style="font-size: 24px; color: #2E9EF7;">↓</strong>
+</div>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/9422/9422240.png" width="50" height="50" alt="Tracking"/>
+      <br><strong>MLflow Tracking</strong>
+      <br><small>Experiments</small>
     </td>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="48" height="48" alt="AWS"/>
-      <br><b>AWS Deployment</b>
-      <br><sub>ECS & S3</sub>
+    <td align="center" width="40">
+      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
     </td>
-    <td align="center" width="30">
-      <b>→</b>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/1705/1705312.png" width="50" height="50" alt="Evaluation"/>
+      <br><strong>Model Evaluation</strong>
+      <br><small>Metrics & Tests</small>
     </td>
-    <td align="center" width="140">
-      <img src="https://img.icons8.com/color/96/000000/graph.png" width="48" height="48" alt="Monitor"/>
-      <br><b>Monitoring</b>
-      <br><sub>Logs & Metrics</sub>
+    <td align="center" width="40">
+      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png" width="50" height="50" alt="Registry"/>
+      <br><strong>Model Registry</strong>
+      <br><small>Versioning</small>
+    </td>
+    <td align="center" width="40">
+      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/2906/2906206.png" width="50" height="50" alt="API"/>
+      <br><strong>FastAPI Service</strong>
+      <br><small>REST Endpoints</small>
+    </td>
+  </tr>
+</table>
+
+<div align="center" style="margin: 10px 0;">
+  <strong style="font-size: 24px; color: #2E9EF7;">↓</strong>
+</div>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="50" height="50" alt="Docker"/>
+      <br><strong>Dockerization</strong>
+      <br><small>Containerization</small>
+    </td>
+    <td align="center" width="40">
+      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" width="50" height="50" alt="CICD"/>
+      <br><strong>CI/CD Pipeline</strong>
+      <br><small>GitHub Actions</small>
+    </td>
+    <td align="center" width="40">
+      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/873/873120.png" width="50" height="50" alt="AWS"/>
+      <br><strong>AWS Deployment</strong>
+      <br><small>ECR + ECS</small>
+    </td>
+    <td align="center" width="40">
+      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn-icons-png.flaticon.com/128/2920/2920277.png" width="50" height="50" alt="Monitor"/>
+      <br><strong>Monitoring</strong>
+      <br><small>Logs & Metrics</small>
     </td>
   </tr>
 </table>
