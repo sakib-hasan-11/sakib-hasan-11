@@ -28,7 +28,7 @@
 name: Sakib Hasan
 role: Machine Learning & MLOps Engineer
 focus: Production-Ready AI Systems
-location: [Your Location]
+location: Bangladesh
 experience: Building scalable ML pipelines
 ```
 
@@ -36,121 +36,75 @@ experience: Building scalable ML pipelines
 
 I'm a **Machine Learning & MLOps Engineer** specializing in **end-to-end production ML systems** on cloud infrastructure. My expertise lies in transforming experimental models into robust, scalable production systems.
 
-### 📊 Production ML Pipeline
+<h2 align="center">Production ML Pipeline Flow</h2>
 
 <div align="center">
-  <h3>End-to-End ML Workflow</h3>
+
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:15px; margin-top:20px;">
+
+<!-- Data -->
+<div style="padding:14px 22px; background:#0f172a; color:white; border-radius:12px; font-weight:bold;">
+Data Collection
 </div>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" width="50" height="50" alt="Data"/>
-      <br><strong>Data Collection</strong>
-      <br><small>ETL & Storage</small>
-    </td>
-    <td align="center" width="40">
-      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/3004/3004458.png" width="50" height="50" alt="Processing"/>
-      <br><strong>Data Processing</strong>
-      <br><small>Cleaning & EDA</small>
-    </td>
-    <td align="center" width="40">
-      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/9374/9374388.png" width="50" height="50" alt="Feature"/>
-      <br><strong>Feature Engineering</strong>
-      <br><small>Transformation</small>
-    </td>
-    <td align="center" width="40">
-      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/8618/8618712.png" width="50" height="50" alt="Training"/>
-      <br><strong>Model Training</strong>
-      <br><small>ML Algorithms</small>
-    </td>
-  </tr>
-</table>
+<div style="font-size:22px;">➡️</div>
 
-<div align="center" style="margin: 10px 0;">
-  <strong style="font-size: 24px; color: #2E9EF7;">↓</strong>
+<!-- Analysis -->
+<div style="padding:14px 22px; background:#1e293b; color:white; border-radius:12px; font-weight:bold;">
+Data Analysis (EDA)
 </div>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/9422/9422240.png" width="50" height="50" alt="Tracking"/>
-      <br><strong>MLflow Tracking</strong>
-      <br><small>Experiments</small>
-    </td>
-    <td align="center" width="40">
-      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/1705/1705312.png" width="50" height="50" alt="Evaluation"/>
-      <br><strong>Model Evaluation</strong>
-      <br><small>Metrics & Tests</small>
-    </td>
-    <td align="center" width="40">
-      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png" width="50" height="50" alt="Registry"/>
-      <br><strong>Model Registry</strong>
-      <br><small>Versioning</small>
-    </td>
-    <td align="center" width="40">
-      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/2906/2906206.png" width="50" height="50" alt="API"/>
-      <br><strong>FastAPI Service</strong>
-      <br><small>REST Endpoints</small>
-    </td>
-  </tr>
-</table>
+<div style="font-size:22px;">➡️</div>
 
-<div align="center" style="margin: 10px 0;">
-  <strong style="font-size: 24px; color: #2E9EF7;">↓</strong>
+<!-- Feature -->
+<div style="padding:14px 22px; background:#334155; color:white; border-radius:12px; font-weight:bold;">
+Feature Engineering
 </div>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="50" height="50" alt="Docker"/>
-      <br><strong>Dockerization</strong>
-      <br><small>Containerization</small>
-    </td>
-    <td align="center" width="40">
-      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" width="50" height="50" alt="CICD"/>
-      <br><strong>CI/CD Pipeline</strong>
-      <br><small>GitHub Actions</small>
-    </td>
-    <td align="center" width="40">
-      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/873/873120.png" width="50" height="50" alt="AWS"/>
-      <br><strong>AWS Deployment</strong>
-      <br><small>ECR + ECS</small>
-    </td>
-    <td align="center" width="40">
-      <strong style="font-size: 24px; color: #2E9EF7;">→</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/2920/2920277.png" width="50" height="50" alt="Monitor"/>
-      <br><strong>Monitoring</strong>
-      <br><small>Logs & Metrics</small>
-    </td>
-  </tr>
-</table>
+<div style="font-size:22px;">➡️</div>
+
+<!-- Training -->
+<div style="padding:14px 22px; background:#475569; color:white; border-radius:12px; font-weight:bold;">
+Model Training
+</div>
+
+<div style="font-size:22px;">➡️</div>
+
+<!-- Evaluation -->
+<div style="padding:14px 22px; background:#64748b; color:white; border-radius:12px; font-weight:bold;">
+Model Evaluation
+</div>
+
+<div style="font-size:22px;">➡️</div>
+
+<!-- MLflow -->
+<div style="padding:14px 22px; background:#0ea5e9; color:white; border-radius:12px; font-weight:bold;">
+MLflow Tracking
+</div>
+
+<div style="font-size:22px;">➡️</div>
+
+<!-- Docker -->
+<div style="padding:14px 22px; background:#22c55e; color:black; border-radius:12px; font-weight:bold;">
+Docker Build
+</div>
+
+<div style="font-size:22px;">➡️</div>
+
+<!-- API -->
+<div style="padding:14px 22px; background:#a855f7; color:white; border-radius:12px; font-weight:bold;">
+FastAPI Serving
+</div>
+
+<div style="font-size:22px;">➡️</div>
+
+<!-- AWS -->
+<div style="padding:14px 22px; background:#f59e0b; color:black; border-radius:12px; font-weight:bold;">
+AWS Deployment (ECS + S3)
+</div>
+
+</div>
+</div>
 
 ### 🔭 Current Focus
 
