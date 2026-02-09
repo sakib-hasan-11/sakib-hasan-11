@@ -53,7 +53,7 @@ Building **scalable AI systems** that serve millions of users worldwide. Passion
 
 <div align="center">
   <h2>Production ML Pipeline Flow</h2>
-  <img src="705fad27d51df5c267909eeb4daf68d0.jpg" alt="ML Pipeline Flow" width="800">
+  <img src="pipeline.jpg" alt="ML Pipeline Flow" width="800">
 </div>
 
 ---
